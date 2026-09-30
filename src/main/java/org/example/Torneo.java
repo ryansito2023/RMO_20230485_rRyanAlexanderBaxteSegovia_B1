@@ -20,6 +20,7 @@ public class Torneo {
         }
     }
     public void IniciarTorneo(){
+        System.out.println("El torneo a iniciado.");
 
     }
 

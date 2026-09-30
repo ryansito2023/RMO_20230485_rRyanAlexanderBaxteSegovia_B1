@@ -7,12 +7,10 @@ long vida;
 String HabilidadEspecial;
 
 public Peleador( String nombre, long nivelPoder){
-    if (nivelPoder > 2000){
-        System.out.println("Porfavor establecer un rango al peleador");
-        System.out.println("EL poder esta dentro del rango establescido");
-    }
-    else
+   this.nombre = nombre;
+   this.nivelPoder = nivelPoder;
 }
 @Override
-    public String
+    public String  (){}
 }
+
